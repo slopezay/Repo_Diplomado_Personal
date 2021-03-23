@@ -2,4 +2,4 @@
 Repositorio de los programas desarrollados durante el diplomado de inteligencia artificial y aprendizaje profundo 2021_01.
 
 ## Trabajos de clase
-* Entendiendo Jupyter Lab, Github, Python y Regresión Lineal [[nbview]](https://nbviewer.jupyter.org/github/slopezay/Repo_Diplomado_Personal/blob/main/Regresi%C3%B3nLineal/RegresionLineal.ipynb "nbview")[[HTML]](https://www.tutorialspoint.com/jupyter/sharing_jupyter_notebook_using_github_and_nbviewer.htm "HTML")
+* Entendiendo Jupyter Lab, Github, Python y Regresión Lineal [[nbview]](https://nbviewer.jupyter.org/github/slopezay/Repo_Diplomado_Personal/blob/main/Regresi%C3%B3nLineal/RegresionLineal.ipynb "nbview")[[HTML]]()
